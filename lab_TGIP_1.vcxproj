@@ -23,6 +23,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h" />
+    <ClInclude Include="ObjectsTypes.h" />
+    <ClInclude Include="ShapeDetails.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E8D7D48F-7AB1-4260-BCEC-8CC11D9FBC01}</ProjectGuid>
